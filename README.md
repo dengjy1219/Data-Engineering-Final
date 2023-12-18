@@ -1,4 +1,4 @@
-# Data Engineering Final
+# Enhancing E-Commerce Recommendation: Tailored User Experience
 Data Engineering Platform Final Project
 
 ### Executive Summary
